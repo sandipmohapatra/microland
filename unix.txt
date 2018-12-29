@@ -1,0 +1,41 @@
+https://github.com/sandipmohapatra/microland
+---------------------------------------------------------------
+
+Linux is an open-source operating system. 
+Unix is also an operating system like Linux. It is an commercial OS. 
+
+It consists of three parts: Kernal, Shell and Programs. 
+
+In the simple language Linux is an operating system (OS). We all are familiar with other operating systems like Microsoft windows, Apple Mac OS, iOS, Google android, etc, just like them linux is also an operating system.
+
+
+Structure Of Linux Operating System
+Linux OS has following components:
+
+1) Kernel
+kernel is the core of the operating system. It establishes communication between devices and software.
+
+ Basically it has four responsibilities:
+
+device management: A system has many devices connected to it like CPU, memory device, sound cards, graphic cards, etc. A kernel stores all the data related to all the devices in device driver.
+
+Memory management: Another function that kernel has to manage is the memory management. Kernel keeps a track of used and unused memory and make sure that processes shouldn't manipulate data of each other using virtual memory address.
+
+Process management: In process management kernel assign enough time and gives priorities to processes before handling CPU to other process. It also deals with security and ownership information.
+
+Handling system calls: Handling system calls means a programmer can write a query or ask the kernel to perform a task.
+
+2) System Libraries
+System libraries are special programs that helps in accessing the kernel's features. It is used to perform any task.
+
+3) System Tools
+Linux OS has a set of utility tools. With the help of commands you can access your files, edit and manipulate data in your directories or files, change location of files or anything.
+
+4) Development Tools
+The additional tools and libraries are written by the programmers to produce a working application is known as development tools.
+
+5) End User Tools
+These end tools make a system unique for a user. End tools are not required for the operating system but are necessary for a user.
+
+Some examples of end tools are graphic design tools, office suites, browsers, multimedia players, etc.
+
