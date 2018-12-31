@@ -1,0 +1,41 @@
+Linux commands
+-------------------------------------
+
+1)vi file----to create a file
+esc :wq ----to save and exit
+
+2)cat file ------Display the file  
+
+3)cat file1 file2 > files -------Combine file1 and file2 into files 
+
+4)cat file1 >> file2 ------------Append file1 at the end of file2 
+
+5)to change the file file permission :-chmod
+
+permission (r or 4 – read)(w or 2 – write)(x or 1 – execute)
+Examples: chmod u+x file (add permission to the user to execute the file) chmod 751 file (chmod u=rwx, g=rx, o=x file) They are the same command
+
+6)clear:- clear the terminal display 
+
+7)date :- to view the date
+
+8)time :- to view the time
+
+9)cmp file1 file2 :- Compare two files (0­identical)(1­different)(2­inaccessible)
+
+10)ls [options] [names] 
+
+List the files in the current directory. With names is specified, list the files  inside the directory names or that match a file names.
+
+
+­a     list all files, including the hidden . files. ­
+d     list only directory information, not its contents. Used with ­l. ­
+h     human readable, using abbreviations for kilobyte, megabyte, etc. ­k     size in kilobytes ­
+l     long format list (includes permissions, owner, size, modification time, etc). ­
+r     list files in reverse order (by name or by time). ­R    recursively list subdirectories. ­
+s      list size in blocks 
+
+t     list files according to modification time (newest first) ­
+
+u    list files according to the file access time.
+

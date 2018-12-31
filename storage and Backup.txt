@@ -1,0 +1,210 @@
+Storage 
+-----------------
+Magnetic storage is one of the most common types of storage used with computers. This technology found mostly on extremely large HDDs or hybrid hard drives.
+Floppy diskette,Hard drive,Magnetic strip,SuperDisk,Tape cassette,Zip diskette
+Optical storage devices.
+
+Another common storage is optical storage, which uses lasers and lights as its method of reading and writing data.
+
+Blu-ray disc,CD-ROM disc,CD-R and CD-RW disc,DVD-R, DVD+R, DVD-RW, and DVD+RW disc.
+
+Flash memory has replaced most magnetic and optical media as it becomes cheaper because it is the more efficient and reliable solution.
+
+USB flash drive, jump drive, or thumb drive.
+Memory card
+Online and cloud
+
+Storing data online and in cloud storage is becoming popular as people need to access their data from more than one device.
+
+Cloud storage
+Network media
+
+Without a storage device, a computer cannot save or remember any settings or information and would be considered a dumb terminal.
+
+Although a computer can run with no storage device, it would only be able to view information unless it was connected to another computer that had storage capabilities. Even a task such as browsing the Internet requires information to be stored on your computer.
+
+As computers advance, the technologies used to store data do too; right along higher requirements for storage space. Because people need more and more space, want it faster, cheaper, and want to take it with them new technologies have to be invented. When new storage devices are designed, as people upgrade to those new devices the older devices are no longer needed and stop being used.
+
+Each advancement of storage devices gives a computer the ability to store more data, as well as save and access data faster.
+
+When saving anything on a computer, it may ask you for a storage location, which is the area where you would like to save the information. By default, most information is saved to your computer hard drive. If you want to move the information to another computer, save it to a removable storage device such as a flash drive.
+
+For most computers, the largest storage device is the hard drive or SSD. However, networked computers may also have access to larger storage with large tape drives, cloud computing, or NAS devices.
+
+Many storage devices have been available in many different capacities. 
+For example, over the evolution of the hard drive, there have been drives that range from the first hard drive of 5 MB to hard drives today that are several terabytes in size. 
+Punch card,Floppy diskette,Zip disk,CD,DVD,Blu-ray disc,Flash jump drive
+Hard drive / SSD,Tape drive,NAS / Cloud Storage
+
+Although these devices do send and receive information, they are not considered an input device or output device. It is more proper to refer to any device capable of storing and reading information as a storage device, disk, disc, drive, or media.
+
+Accessing a storage device on your computer depends on the operating system your computer is using and how it's being used. For example, with Microsoft Windows, you can use a file manager to access the files on any storage device. Microsoft Windows uses Explorer as its default file manager. With Apple computers, Finder is considered the default file manager.
+
+
+One of the most recent storage device technologies to be introduced is cloud storage also being a recently developed storage devices. Also, older technologies like hard disk drives and tape drives are always developing new techniques to allow for the devices to store more data.
+
+-------------------------------------------------------------------------------------------------------
+
+Primary memory is computer memory that a processor or computer accesses first or directly. It allows a processor to access running execution applications and services that are temporarily stored in a specific memory location.
+
+Primary memory is also known as primary storage or main memory.
+
+Primary memory is a computer system's volatile storage mechanism. It may be random access memory (RAM), cache memory or data buses, but is primarily associated with RAM.
+
+As soon as a computer starts, primary memory loads all running applications, including the base operating system (OS), user interface and any user-installed and running software utility. A program/application that is opened in primary memory interacts with the system processor to perform all application-specific tasks.
+
+Primary memory is faster than secondary memory.
+------------------------------------------------------------------------------------------
+Secondary memory is computer memory that is non-volatile and persistent in nature and is not directly accessed by a computer/processor. It allows a user to store data that may be instantly and easily retrieved, transported and used by applications and services.
+
+Secondary memory is also known as secondary storage.
+
+Secondary memory consists of all permanent or persistent storage devices, such as read-only memory (ROM), flash drives, hard disk drives (HDD), magnetic tapes and other types of internal/external storage media. In computing operations, secondary memory is accessed only by the primary or main memory and later transported to the processor.
+
+Secondary memory is slower than primary memory but can store and retain data, even if the computer is not connected to electrical power. It also has substantial storage capacities, ranging from megabytes to several terabytes of storage space within single memory.
+
+----------------------------------------------------------------------------------------------------
+Virtual memory (VM) is a feature developed for the kernel of an operating system (OS) that simulates additional main memory such as RAM (random access memory) or disc storage. This technique involves the manipulation and management of memory by allowing the loading and execution of larger programs or multiple programs simultaneously. It also allows each program to operate as if it had infinite memory, and is often considered more cost effective than purchasing additional RAM.
+
+Virtual memory permits software to use additional memory by utilizing the hard disc drive (HDD) as temporary storage. Most central processing units (CPUs) provide memory management units (MMUs) that support virtual memory. The MMU supports the “page tables” that are used to transform the “real” and “virtual” addresses located in memory and on the HDD.
+
+An OS that uses virtual memory frees up space by transferring data from the HDD which is not immediately required. When the data is needed, it is copied back to the HDD. When all RAM is being used, VM swaps data to the HDD and then back again. Thus, VM allows a larger total system memory; however, complicated code writing is required.
+
+VM literally attempts to use more RAM, or disc storage memory, than actually exists. This process allows the CPU to handle larger and multiple programs simultaneously. VM is an ordinary operating system (OS) and hardware program that utilizes an HDD by temporally storing and controlling memory. The process of manipulating and managing memory allows each application to function as if it had nearly infinite memory. The temporary memory storage is managed by a memory management unit (MMU), also known as a “paged memory management unit” (PMMU).
+
+-----------------------------------------------------------------------------
+
+A storage area network (SAN) is a secure high-speed data transfer network that provides access to consolidated block-level storage. An SAN makes a network of storage devices accessible to multiple servers. 
+
+SANs are sometimes also referred to as SAN storage, SAN network, network SAN, etc.
+
+Introduced in the early 2000s, SANs were initially limited to enterprise class computing. 
+
+SAN implementation simplifies information life cycle management and plays a critical role in delivering a consistent and secure data transfer infrastructure.
+
+Fiber Channel (FC): Storage and servers are connected via a high-speed network of interconnected fiber channel switches. This is used for mission-critical applications where uninterrupted data access is required.
+
+
+The advantages of SAN server include:
+
+High-Speed Disk Technologies:Data retrieval speeds that exceed 5 Gbps. 
+
+Centralized Backup:Advanced backup features, such as incremental backups.
+
+Dynamic Failover Protection: Provides continuous network operation, even if a server fails or goes offline for maintenance, which enables built-in redundancy and automatic traffic rerouting.
+
+SAN is offered by server manufacturers, such as IBM and HP. 
+
+----------------------------------------------------------------------------
+Backup
+------------------
+Backup refers to the process of making copies of data or data files to use in the event the original data or data files are lost or destroyed. 
+Secondarily, a backup may refer to making copies for historical purposes,Many applications, especially in a Windows environment, produce backup files using the .BAK file extension.
+
+Full and Incremental Backups: These begin with all data being backed up. Then, only new or modified data or data files are backed up, a much smaller segment of all data. Restoring the entire system to the data state at a specific point in time would require the last full system backup plus all the incremental backups done up to that point in time.
+
+Full System Backup: This allows the computer system to be restored as it was at a given point in time, including the operating system, all applications and all data. It makes a complete image of the computer, then the user may reconstruct any data changes after that point in time, possibly with an incremental backup.
+--------------------------
+
+
+
+cloud storage
+-----------------------
+1)cloud storage is pay as you use.It is secure and easy to recover.Mirroring of data is done.
+
+2) cloud providers offer reliable and flexible backup/recovery solutions.
+
+3)Cloud is a model for enabling convenient, on-demand network access to a shared pool of configurable computing resources .
+
+
+
+
+
+
+
+---------------------
+In data backup and recovery, an incremental backup is one that backs up only files and data that have changed since a previous backup was performed. 
+
+The philosophy of the incremental backup method is that managers can achieve data solvency by using successive incremental backups after a full backup. This allows them to document the changes in shorter time periods. One of the primary benefits of this strategy is that the incremental backups that are made against the original full backup take less time and effort to perform than doing a full backup each time. A third alternative is to use differential backups, which back up any data against a previous full backup. By contrast, incremental backups only back up data against any prior backup.
+
+Incremental backups must be packaged together in order to provide a comprehensive full backup. For example, a user may perform a full backup on a Monday, and an incremental backup on Tuesday, Wednesday and Thursday. Each incremental backup, then, will only include changes made during the prior business day. If one incremental backup is missing, it will be impossible to provide a full data record.
+-------------------------------------------------
+An automatic backup system is a system that allow for the recovery of information stored on computers. Automatic backups are necessary in order to back up stored data and to enable data recovery should the system crash. By automating a backup through a regular backup system, the user doesn't have to protect data manually.
+
+Hard drives often fail, which is why automatic backup systems are put in place. Automatic backup systems assume that some fault will cause data loss. In other words, data archives help prevent data loss whereas backup systems work in a secondary manner, making a second (or more) set of copies for the purpose of data restoration from data losses that are fully expected.
+
+A successful automatic backup system will be immune to situations that could occur at the hard drives' physical location, such as fire, floods and other natural disasters. This is why automatic backup systems should be remote, and data restoration and retrieval should be located away from the original data storage location.
+--------------
+Backup storage refers to a storage device, medium or facility that is used for storing copies and instances of backup data. Backup storage enables the maintenance, management, retrieval and restoration of backup data for any individual, application, computer, server or any computing device.
+Backup storage is primarily an additional storage device used for keeping backup data. Typically, it is external to the system, server or device for which the backup data is created, such as a local/remote storage server. The backup storage itself can be a hard disk drive, tape drive, compact disk drive or any mass storage medium installed within a computer or storage server. In enterprise IT environments, the backup storage medium/technology used can be RAID, a storage area network or a network-attached storage system. Backup software or a backup manager is used to create, store, manage and retrieve backup data to and from the backed up application/device and the backup storage location.
+
+-------------------------------------------------
+Data recovery refers to the salvaging or securing of data from failed or compromised hardware systems. In data forensics and espionage, the term refers to techniques for obtaining "hard to get" data, usually during hardware or system failures, or when system data has been erased.
+
+---------------
+Cache memory is a small-sized type of volatile computer memory that provides high-speed data access to a processor and stores frequently used computer programs, applications and data. It is the fastest memory in a computer, and is typically integrated onto the motherboard and directly embedded in the processor or main random access memory (RAM).
+
+Cache memory provides faster data storage and access by storing instances of programs and data routinely accessed by the processor. Thus, when a processor requests data that already has an instance in the cache memory, it does not need to go to the main memory or the hard disk to fetch the data.
+
+Cache memory can be primary or secondary cache memory, with primary cache memory directly integrated into the processor. In addition to hardware-based cache, cache memory also can be a disk cache, where a reserved portion on a disk stores and provides access to frequently accessed data/applications from the disk.
+
+--------------------------
+
+ Storage Optimization 
+
+Storage optimization is the collective process, frameworks and technologies that enable the efficient use of storage infrastructure and resources. It is a concept that works across all the technological and management layers of storage management to ensure existing storage resources are working in an efficient and cost-effective way.
+
+Storage optimization primarily helps to minimize the disk/storage use across all storage and resources. Typically, the goals of storage optimization are to reduce storage hardware and administration costs, consolidate existing storage resources.
+
+--------------------------------------------------------
+Storage Management Software
+Storage management software is a type of program that is especially designed for managing storage solutions like storage networks. It provides important services like mirroring, replication, compression, traffic analysis, virtualization, security and disaster recovery. 
+-------------------------------------------
+Storage Virtualization 
+Storage virtualization is the process of grouping the physical storage from multiple network storage devices so that it looks like a single storage device.
+
+The process involves abstracting and covering the internal functions of a storage device from the host application, host servers or a general network in order to facilitate the application and network-independent management of storage.
+
+Storage virualization is also known as cloud storage.
+
+Storage Virtualization
+The management of storage and data is becoming difficult and time consuming. Storage virtualization helps to address this problem by facilitating easy backup, archiving and recovery tasks by consuming less time. Storage virtualization aggregates the functions and hides the actual complexity of the storage area network (SAN).
+
+Storage virtualization can be implemented by using software applications or appliances. There are three important reasons to implement storage virtualization:
+
+Improved storage management in a heterogeneous IT environment
+Better availability and estimation of down time with automated management
+Better storage utilization
+
+
+Storage virtualization can be applied to any level of a SAN. The virtualization techniques can also be applied to different storage functions such as physical storage, RAID groups, logical unit numbers (LUNs), LUN subdivisions, storage zones and logical volumes, etc.
+
+The storage virtualization model can be divided into four main layers:
+
+Storage devices
+Block aggregation layer
+File/record layer
+Application layer
+Some of the benefits of storage virtualization include automated management, expansion of storage capacity, reduced time in manual supervision, easy updates and reduced downtime.
+
+
+---------------------------------------------------------------------------------------------------------
+
+Network Attached Storage (NAS)
+
+NAS is a file-level access storage architecture with storage elements attached directly to a LAN. It provides file access to LAN computer systems. 
+
+The storage is accessed directly via the network . 
+An additional layer is added to address the shared storage files. 
+
+This system typically uses NFS (Network File System) .
+
+The servers can be different platforms as long as they all use the IP protocol.
+
+
+
+----------------------------------------------------------------------------------------------
+
+Storage Area Networks (SANs)
+Like DAS, a SAN is connected behind the servers. SANs provide block-level access to shared data storage. Block level access refers to the specific blocks of data on a storage device as opposed to file level access. One file will contain several blocks. SANs provide high availability and robust business continuity for critical data environments. SANs are typically switched fabric architectures using Fibre Channel (FC) for connectivity. The term switched fabric refers to each storage unit being connected to each server via multiple SAN switches also called SAN directors which provide redundancy within the paths to the storage units. This provides additional paths for communications and eliminates one central switch as a single point of failure.
+
